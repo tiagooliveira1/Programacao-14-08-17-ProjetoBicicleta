@@ -19,6 +19,10 @@ public class MainTeste {
 		System.out.println( "Marcha: "+bike.getMarcha() );
 		
 		System.out.println("Acabou.");
+		
+		System.out.println("Testando objeto ClasseTeste.");
+		ClasseTeste teste = new ClasseTeste(1234, "Tiago");
+		
 	}
 
 }
